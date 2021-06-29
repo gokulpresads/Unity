@@ -8,7 +8,5 @@ Flappy Bird Game Screens
 
 Ping Pong Game Screens
 
-<img src="https://github.com/gokulpresads/Unity/blob/main/Ping%20Pong/Screens/Start.jpeg" width="400">
-<img src="https://github.com/gokulpresads/Unity/blob/main/Ping%20Pong/Screens/Mode.jpeg" width="400">
-<img src="https://github.com/gokulpresads/Unity/blob/main/Ping%20Pong/Screens/Game.jpeg" width="400">
+<img src="https://github.com/gokulpresads/Unity/blob/main/Ping%20Pong/Screens/Start.jpeg" width="300"> <img src="https://github.com/gokulpresads/Unity/blob/main/Ping%20Pong/Screens/Mode.jpeg" width="300"> <img src="https://github.com/gokulpresads/Unity/blob/main/Ping%20Pong/Screens/Game.jpeg" width="300">
 
